@@ -1,4 +1,5 @@
-### Quản Lý Vật Tư Nông Nghiệp
+# AgriPro
 
-Họ và tên: Lê Nhựt Minh Đăng
-MSSV: B1910053
+## Video Demo
+
+[Demo Video](https://youtu.be/JINfITUgKas)
